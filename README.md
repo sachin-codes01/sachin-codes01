@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:111827&height=220&section=header&text=Sachin%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" /><br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Sachin%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" /><br />
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=020617&center=true&vCenter=true&width=500&height=45&lines=Frontend+Developer;React.js+Developer;TypeScript+Developer;JavaScript+(ES6+)+Enthusiast;Firebase+Integrator;Full-Stack+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38bdf8&center=true&vCenter=true&width=500&height=45&lines=Frontend+Developer;React.js+Developer;TypeScript+Developer;JavaScript+(ES6+)+Enthusiast;Firebase+Integrator;Full-Stack+Explorer" alt="Typing SVG" />
   </a><br />
   <img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css,js,vite,firebase,netlify,github,vscode&theme=dark" /><br /><br />
   <a href="https://www.linkedin.com/in/sachin-kumar-b814683a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
