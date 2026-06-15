@@ -51,68 +51,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 💬 [NexoChat — Real-time Chat App](https://github.com/sachin-codes01/NexoChat-ChatApp-)
-> React · Vite · Firebase · Firestore
-
-A full-featured chat app with private messaging, group chats, friend requests, and an admin panel. Built with Firebase Authentication & Firestore for real-time data sync.
-
-🌐 **Live:** [nexochat.netlify.app](https://nexochat.netlify.app)
-
----
-
-### 🍽️ [Recipe Finder](https://github.com/sachin-codes01/Recipe-Finder)
-> React · Tailwind CSS · Spoonacular API
-
-Smart recipe search app with dark mode, dietary tags, price in INR, nutrition scores, and skeleton loading states.
-
-🌐 **Live:** [recipes-finder-webapp.netlify.app](https://recipes-finder-webapp.netlify.app/)
-
----
-
-### 🎬 [Movie Search App](https://github.com/sachin-codes01/Mini-Projects/tree/main/10_Movie_Search_App)
-> React · React Router · TMDB API · Material UI
-
-Browse popular/top-rated/upcoming movies, search in real-time, watch embedded YouTube trailers, and explore drag-to-scroll category rows.
-
----
-
-### 🌤️ [Weather Forecast App](https://github.com/sachin-codes01/Weather-App)
-> React · WeatherAPI · CSS3
-
-7-day forecast, hourly breakdown, UV index, humidity, sunrise/sunset — all in a clean, skeleton-loaded UI.
-
----
-
-### 🎮 [Pokédex App](https://github.com/sachin-codes01/Mini-Projects/tree/main/16_Pokedex)
-> React · PokéAPI
-
-Browse 124 Pokémon with live search, stats, and responsive grid layout using parallel `Promise.all` fetching.
-
----
-
-### 📋 [Draggable Kanban Board](https://github.com/sachin-codes01/Mini-Projects/tree/main/19_Draggable_Kanban_Board)
-> React · useReducer · localStorage · HTML5 Drag & Drop
-
-Fully functional task board with drag-and-drop, inline editing, and persistent state across sessions.
-
----
-
-### 🔍 [GitHub User Search](https://github.com/sachin-codes01/Mini-Projects/tree/main/09_GitHub_User_Search)
-> React · GitHub REST API · Material UI
-
-Search any GitHub user, view profile stats, recent repos, and handle API rate-limiting gracefully.
-
----
-
-### 🎬 [Netflix Clone](https://github.com/sachin-codes01/netflix-clone)
-> React · Firebase Auth · React Router · TMDB API
-
-Netflix-style UI with secure login/signup, dynamic movie data, and client-side routing.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -123,34 +61,6 @@ Netflix-style UI with secure login/signup, dynamic movie data, and client-side r
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-codes01&theme=tokyonight&hide_border=true" width="60%" />
 </p>
-
----
-
-## 🗂️ More Projects — Mini Projects Repo
-
-I've built **39+ React mini projects** covering everything from basic hooks to advanced UI patterns:
-
-| # | Project | Concepts |
-|---|---------|----------|
-| 01 | Counter App | useState |
-| 02 | To-Do List | CRUD, state |
-| 03 | Calculator | Event handling |
-| 04 | Digital Clock | useEffect, time |
-| 06 | Stopwatch | Timers, refs |
-| 07 | Random Quote Generator | API fetch, loading states |
-| 18 | Color Palette Generator | Dynamic UI |
-| 20 | Accordion FAQ | Conditional rendering |
-| 21 | Image Carousel Slider | useRef, animation |
-| 26 | Infinite Scroll | Intersection Observer |
-| 27 | Skeleton Loading Screen | Loading UX |
-| 28 | Toast Notification System | Portals, state |
-| 32 | Multi Step Form | Form state management |
-| 33 | Search with Autocomplete | Debounce, filtering |
-| 36 | Password Strength Meter | Regex, UI feedback |
-| 38 | OTP Input Field | Focus management |
-| 39 | Drag and Drop | HTML5 DnD API |
-
-👉 **See all:** [sachin-codes01/Mini-Projects](https://github.com/sachin-codes01/Mini-Projects)
 
 ---
 
