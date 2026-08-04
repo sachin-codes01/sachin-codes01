@@ -151,7 +151,7 @@ Standalone builds from [Mini-Projects](https://github.com/sachin-codes01/Mini-Pr
 
 ## 🌐 Connect with Me
 
-I'm actively looking for **Software Development Internship** opportunities — if you're hiring or just want to talk shop, reach out.
+I'm actively looking for **MERN stack developer Internship** or **Frontend developer Internship** or **Backend developer Internship** opportunities — if you're hiring or just want to talk shop, reach out.
 
 * **Portfolio:** [sachin-codes01-portfolio.netlify.app](https://sachin-codes01-portfolio.netlify.app)
 * **LinkedIn:** [linkedin.com/in/sachin-kumar-b814683a9](https://www.linkedin.com/in/sachin-kumar-b814683a9/)
