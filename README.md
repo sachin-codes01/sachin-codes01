@@ -1,20 +1,34 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Sachin%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" /><br />
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38bdf8&center=true&vCenter=true&width=500&height=45&lines=Frontend+Developer;React.js+Developer;TypeScript+Developer;JavaScript+(ES6+)+Enthusiast;Firebase+Integrator;Full-Stack+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38bdf8&center=true&vCenter=true&width=520&height=45&lines=MERN+Stack+Developer;React.js+Developer;TypeScript+Developer;Node.js+%2B+Express+Backend;MongoDB+%26+REST+API+Design;Firebase+Integrator;Open+to+Software+Development+Internships" alt="Typing SVG" />
   </a><br />
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css,js,vite,firebase,netlify,github,vscode&theme=dark" /><br /><br />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,mongodb,tailwind,materialui,html,css,vite,firebase,netlify,vercel,git,github,vscode&perline=9&theme=dark" /><br /><br />
+  <a href="https://sachin-codes01-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=firefoxbrowser&logoColor=38bdf8" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/sachin-kumar-b814683a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="mailto:sachin.codes01@gmail.com"><img src="https://img.shields.io/badge/Email-E11D48?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
   <a href="https://www.instagram.com/sachin_28022005?igsh=MTNtY2kzaTlqaDl6cw%3D%3D"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
   <a href="https://github.com/sachin-codes01"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sachin-codes01&style=flat-square&color=38bdf8" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Based_in-Ghaziabad,_India-0F172A?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Open_to-Internships-22C55E?style=flat-square" alt="Open to internships" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 
-Creative and detail-oriented Frontend Engineer focused on building performant, type-safe, responsive, and highly interactive web applications. Experienced in enterprise state management, client-side routing, and seamless third-party API/Firebase infrastructure integrations. I thrive on translating complex design wires into clean, reusable component architectures and scalable frontend ecosystems.
+I'm a **MERN stack developer** from Ghaziabad, India, who builds and ships full-stack web applications end to end — from MongoDB schema design and Express REST APIs through to responsive, component-driven React front ends.
+
+I've independently built and deployed an e-commerce platform with live payments, a real-time chat app over WebSockets, and a Firebase-backed messaging platform — covering authentication, file uploads, protected routes, and admin tooling along the way.
+
+🎓 **BCA graduate** (Choudhary Charan Singh University, 2025)
+💼 Currently **open to Software Development Internships** and junior developer roles
+🌱 Deepening my backend work — API architecture, database modelling and auth patterns
+🗣️ English, Hindi
 
 ---
 
@@ -22,20 +36,28 @@ Creative and detail-oriented Frontend Engineer focused on building performant, t
 
 <table>
   <tr>
-    <td align="center" width="20%"><strong>Frontend Core</strong></td>
-    <td>React.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Vite, Material UI, Tailwind CSS</td>
+    <td align="center" width="22%"><strong>Frontend</strong></td>
+    <td>React.js (19), TypeScript, JavaScript (ES6+), HTML5, CSS3, Vite, React Router, Tailwind CSS, Material UI, Motion, Responsive Design</td>
   </tr>
   <tr>
-    <td align="center" width="20%"><strong>Backend & Database</strong></td>
-    <td>Firebase (Auth, Firestore, Realtime Database), REST APIs Integration</td>
+    <td align="center" width="22%"><strong>Backend</strong></td>
+    <td>Node.js, Express.js, REST API Design, Socket.IO, Multer</td>
   </tr>
   <tr>
-    <td align="center" width="20%"><strong>State & Architecture</strong></td>
-    <td>Context API, useReducer, Custom Hooks, Component-driven Architecture, Form Management</td>
+    <td align="center" width="22%"><strong>Database</strong></td>
+    <td>MongoDB, Mongoose, Firebase Firestore &amp; Realtime Database</td>
   </tr>
   <tr>
-    <td align="center" width="20%"><strong>Workflow & Hosting</strong></td>
-    <td>Git, GitHub, Netlify, Web APIs (localStorage, Drag-and-Drop API)</td>
+    <td align="center" width="22%"><strong>Auth &amp; Integrations</strong></td>
+    <td>JWT, bcrypt, Google OAuth, Firebase Authentication, Razorpay (payments), Cloudinary (media), third-party REST APIs</td>
+  </tr>
+  <tr>
+    <td align="center" width="22%"><strong>State &amp; Architecture</strong></td>
+    <td>Context API, Redux, useReducer, Custom Hooks, React Hook Form, Component-driven Architecture</td>
+  </tr>
+  <tr>
+    <td align="center" width="22%"><strong>Workflow &amp; Hosting</strong></td>
+    <td>Git, GitHub, Netlify, Vercel, Web APIs (localStorage, Drag-and-Drop, Intersection Observer)</td>
   </tr>
 </table>
 
@@ -43,44 +65,68 @@ Creative and detail-oriented Frontend Engineer focused on building performant, t
 
 ## 🚀 Highlighted Projects
 
-### 💬 [NexoChat](https://github.com/sachin-codes01/NexoChat-ChatApp-)
-*A comprehensive, real-time communication platform built for secure workspace collaboration.*
-* **Tech Stack:** React.js, Vite, Firebase (Authentication & Firestore), CSS3
-* **Key Features:** Full user account lifecycle (registration, verification, deletion), direct private messaging, dynamic group chat administration, and a completely responsive mobile-first UI layout.
+### 🛒 [MDN Supplement Website](https://github.com/sachin-codes01/MERN-Projects/tree/main/MDN-Suppliment-Website) — *Full-Stack E-Commerce*
+*A complete supplement store with a real payment gateway, order lifecycle and admin panel.*
+* **Tech Stack:** React 19, Tailwind CSS, Material UI, Motion, Express 5, MongoDB (Mongoose), JWT, Google OAuth, Razorpay, Cloudinary
+* **Key Features:** Product catalogue with variants and flavours, cart and checkout, live Razorpay payments, order tracking and cancellation, protected admin routes for catalogue and order management, Cloudinary-backed image uploads.
+* **Live Demo:** [mdn-my-daily-nutrition.vercel.app](https://mdn-my-daily-nutrition.vercel.app)
+
+### 💬 [Vārtālāpaḥ](https://github.com/sachin-codes01/MERN-Projects/tree/main/Vartalapah-ChattingApp) — *Real-Time MERN Chat*
+*A full MERN chat platform running live over WebSockets.*
+* **Tech Stack:** React, Socket.IO, Express, MongoDB (Mongoose), Cloudinary, Google OAuth
+* **Key Features:** One-to-one and group chats, photo/video sharing, live typing indicators, online presence with last-seen, read receipts, message edit/delete, block-and-unblock enforced server-side, pinned and archived conversations.
+* **Live Demo:** [vartalapah-chatting-webapp.vercel.app](https://vartalapah-chatting-webapp.vercel.app)
+
+### 🎬 [MegaMovies](https://github.com/sachin-codes01/MegaMovies_Netflix-Clone) — *Movie & TV Discovery*
+*A Netflix-style discovery app built on the TMDB API.*
+* **Tech Stack:** React 19, Vite, Tailwind CSS v4, Material UI, TMDB API
+* **Key Features:** Auto-rotating hero slider, genre swimlanes, infinite scroll, 500ms-debounced instant search, full detail pages with cast and trailers, per-account watchlist and favourites.
+* **Live Demo:** [megamovies-webapp.netlify.app](https://megamovies-webapp.netlify.app)
+
+### 💬 [NexoChat](https://github.com/sachin-codes01/NexoChat-ChatApp-) — *Firebase Real-Time Chat*
+*A secure, mobile-first messaging platform on Firebase.*
+* **Tech Stack:** React.js, Vite, Firebase (Authentication & Firestore), Material UI
+* **Key Features:** Full account lifecycle (registration, email verification, deletion), private and group messaging, friend requests and contact management, dynamic group administration, fully responsive mobile-first layout.
 * **Live Demo:** [nexochat.netlify.app](https://nexochat.netlify.app)
 
-### 🎬 [Movie Search Hub](https://github.com/sachin-codes01/Mini-Projects/tree/main/10_Movie_Search_App)
-*An immersive entertainment dashboard utilizing parallel data processing for optimal performance.*
-* **Tech Stack:** React, Context API, React Router DOM, Material UI (Skeletons), TMDB REST API
-* **Key Features:** Debounced instant query rendering, automated scroll restoration, modular category swimlanes with custom multi-directional drag-to-scroll event listeners, and integrated YouTube media streaming.
-* **Code Repository:** [github.com/sachin-codes01/.../10_Movie_Search_App](https://github.com/sachin-codes01/Mini-Projects/tree/main/10_Movie_Search_App)
+### 🎨 [Developer Portfolio](https://github.com/sachin-codes01/Sachin-Portfolio) — *Personal Site*
+*An editorial single-page portfolio with motion-driven interactions.*
+* **Tech Stack:** React 19, Vite, Tailwind CSS v4, Material UI, Motion, Lenis, Three.js
+* **Key Features:** Inertial smooth scrolling with reduced-motion support, scroll-triggered reveals and parallax bands, interactive expanding project gallery, local variable fonts (no runtime font requests), PWA-ready manifest.
+* **Live Demo:** [sachin-codes01-portfolio.netlify.app](https://sachin-codes01-portfolio.netlify.app)
 
-### 🌤️ [Weather Forecast Engine](https://github.com/sachin-codes01/Mini-Projects/tree/main/08_Weather_App)
-*A sleek climate tracking application with dynamic asset states and real-time synchronization.*
-* **Tech Stack:** React, JavaScript (ES6+), CSS3, WeatherAPI
-* **Key Features:** Global geolocation data lookups, contextual multi-day forecasting maps, fluid touch/drag horizontal hour components using mutable references, and elegant structural skeletal loading systems.
-* **Code Repository:** [github.com/sachin-codes01/.../08_Weather_App](https://github.com/sachin-codes01/Mini-Projects/tree/main/08_Weather_App)
-
-### 🍽️ [RecipeFinder App](https://github.com/sachin-codes01/Mini-Projects/tree/main/17_Recipe_Menagement_system)
-*An end-to-end dashboard focusing on rich content parsing and localized UI conversions.*
-* **Tech Stack:** React, Tailwind CSS, Spoonacular API
-* **Key Features:** Persistent dark mode UI context, cross-currency programmatic conversion (USD to INR), debounced network optimization, and secure rendering of API HTML segments via explicit sanitization patterns.
-* **Live Demo:** [recipes-finder-webapp.netlify.app](https://recipes-finder-webapp.netlify.app/)
+### 🍽️ [Recipe Finder](https://github.com/sachin-codes01/Recipe-Finder) — *API-Driven Dashboard*
+*A recipe discovery app built on the Spoonacular API.*
+* **Tech Stack:** React 19, Vite, Tailwind CSS, Material UI, Spoonacular API
+* **Key Features:** Debounced live search, recipe dashboard with health scores and dietary tags, full detail pages with nutrition data, persistent dark mode, USD→INR price conversion, skeleton loading and graceful empty states.
+* **Live Demo:** [recipes-finder-webapp.netlify.app](https://recipes-finder-webapp.netlify.app)
 
 ---
 
-> ### 📂 Looking for more?
-> **Explore 50+ Frontend Mini-Projects!** > I have designed, built, and optimized a massive repository of over 50 hands-on applications to sharpen my foundational logic, master API data flows, and explore advanced layout states. Check out the entire interactive catalog inside my [Mini-Projects Repository](https://github.com/sachin-codes01/Mini-Projects).
+## 📂 More Repositories
+
+| Repository | What's inside |
+|------------|---------------|
+| [MERN-Projects](https://github.com/sachin-codes01/MERN-Projects) | Full-stack MERN applications — e-commerce, real-time chat, and a JWT-authenticated task manager |
+| [Mini-Projects](https://github.com/sachin-codes01/Mini-Projects) | 34 focused React builds — hooks, API integrations, UI components, forms and games |
+| [Weather-App](https://github.com/sachin-codes01/Weather-App) | 7-day forecasts, hourly breakdowns, skeleton loading states, built on WeatherAPI |
+| [DSA-PRACTICE](https://github.com/sachin-codes01/DSA-PRACTICE) | JavaScript DSA practice — arrays, strings, sorting, recursion and pattern printing |
 
 ---
 
-## 📦 Core Component Ecosystem & Mini-Projects
+## 🧩 Component & Pattern Highlights
 
-A curated collective of dedicated utility components and standalone single-page features demonstrating deep domain expertise in React lifecycle optimization and UX interaction design:
+Standalone builds from [Mini-Projects](https://github.com/sachin-codes01/Mini-Projects), each focused on one technique:
 
-* **Advanced Forms & UI Systems:** [Multi-Step Wizard Form](https://github.com/sachin-codes01/Mini-Projects/tree/main/32_Multi_Step_Form) | [Autocomplete Input Engine](https://github.com/sachin-codes01/Mini-Projects/tree/main/33_Search_with_Autocomplete) | [React Hook Form Implementations](https://github.com/sachin-codes01/Mini-Projects/tree/main/34_React_Hook_Form_Demo) | [Secure OTP Verification Inputs](https://github.com/sachin-codes01/Mini-Projects/tree/main/38_OTP_Input_Field)
-* **Optimization & Performance:** [Skeleton Interface Infrastructure](https://github.com/sachin-codes01/Mini-Projects/tree/main/27_Skeleton_Loading_Screen) | [Infinite Virtual Scrolling Grid](https://github.com/sachin-codes01/Mini-Projects/tree/main/26_Infinite_Scroll) | [Global Notification/Toast Delivery System](https://github.com/sachin-codes01/Mini-Projects/tree/main/28_Toast_Notification_System)
-* **Integrations & Productivity Layouts:** [GitHub Developer Directory Search](https://github.com/sachin-codes01/Mini-Projects/tree/main/09_GitHub_User_Search) | [Draggable Kanban Workflow System](https://github.com/sachin-codes01/Mini-Projects/tree/main/19_Draggable_Kanban_Board)
+* **Forms & Inputs:** [Multi-Step Form](https://github.com/sachin-codes01/Mini-Projects/tree/main/32_Multi_Step_Form) | [Search with Autocomplete](https://github.com/sachin-codes01/Mini-Projects/tree/main/33_Search_with_Autocomplete) | [React Hook Form Demo](https://github.com/sachin-codes01/Mini-Projects/tree/main/34_React_Hook_Form_Demo) | [OTP Input Field](https://github.com/sachin-codes01/Mini-Projects/tree/main/38_OTP_Input_Field) | [Password Strength Meter](https://github.com/sachin-codes01/Mini-Projects/tree/main/36_Password_Strength_Meter)
+* **Performance & UX:** [Skeleton Loading Screens](https://github.com/sachin-codes01/Mini-Projects/tree/main/27_Skeleton_Loading_Screen) | [Infinite Scroll](https://github.com/sachin-codes01/Mini-Projects/tree/main/26_Infinite_Scroll) | [Toast Notification System](https://github.com/sachin-codes01/Mini-Projects/tree/main/28_Toast_Notification_System)
+* **Integrations & Layouts:** [GitHub User Search](https://github.com/sachin-codes01/Mini-Projects/tree/main/09_GitHub_User_Search) | [Draggable Kanban Board](https://github.com/sachin-codes01/Mini-Projects/tree/main/19_Draggable_Kanban_Board) | [Pokédex](https://github.com/sachin-codes01/Mini-Projects/tree/main/16_Pokedex)
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Applications (BCA)** — Choudhary Charan Singh University · 2025
 
 ---
 
@@ -90,7 +136,7 @@ A curated collective of dedicated utility components and standalone single-page 
   <img src="https://github-readme-stats.vercel.app/api?username=sachin-codes01&show_icons=true&theme=tokyonight&count_private=true" alt="Sachin's GitHub Stats" height="195px"/>
 </p>
 
-### 💻 Language Proficiency & Skill Breakdown
+### 💻 Language Breakdown
 
 <p align="center">
   <a href="https://github.com/sachin-codes01">
@@ -104,6 +150,9 @@ A curated collective of dedicated utility components and standalone single-page 
 
 ## 🌐 Connect with Me
 
-* **LinkedIn:** [linkedin.com/in/sachin-kumar-b814683a9/](https://www.linkedin.com/in/sachin-kumar-b814683a9/)
-* **Instagram:** [instagram.com/sachin_28022005](https://www.instagram.com/sachin_28022005?igsh=MTNtY2kzaTlqaDl6cw%3D%3D)
+I'm actively looking for **Software Development Internship** opportunities — if you're hiring or just want to talk shop, reach out.
+
+* **Portfolio:** [sachin-codes01-portfolio.netlify.app](https://sachin-codes01-portfolio.netlify.app)
+* **LinkedIn:** [linkedin.com/in/sachin-kumar-b814683a9](https://www.linkedin.com/in/sachin-kumar-b814683a9/)
 * **Email:** [sachin.codes01@gmail.com](mailto:sachin.codes01@gmail.com)
+* **Instagram:** [instagram.com/sachin_28022005](https://www.instagram.com/sachin_28022005?igsh=MTNtY2kzaTlqaDl6cw%3D%3D)
