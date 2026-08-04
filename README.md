@@ -108,7 +108,7 @@ I've independently built and deployed an e-commerce platform with live payments,
 | Repository | What's inside |
 |------------|---------------|
 | [MERN-Projects](https://github.com/sachin-codes01/MERN-Projects) | Full-stack MERN applications — e-commerce, real-time chat, and a JWT-authenticated task manager |
-| [Mini-Projects](https://github.com/sachin-codes01/Mini-Projects) | 34 focused React builds — hooks, API integrations, UI components, forms and games |
+| [Mini-Projects](https://github.com/sachin-codes01/Mini-Projects) | A growing set of focused React builds — hooks, API integrations, UI components, forms and games |
 | [Weather-App](https://github.com/sachin-codes01/Weather-App) | 7-day forecasts, hourly breakdowns, skeleton loading states, built on WeatherAPI |
 | [DSA-PRACTICE](https://github.com/sachin-codes01/DSA-PRACTICE) | JavaScript DSA practice — arrays, strings, sorting, recursion and pattern printing |
 
@@ -130,21 +130,22 @@ Standalone builds from [Mini-Projects](https://github.com/sachin-codes01/Mini-Pr
 
 ---
 
-## 📈 GitHub Metrics
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachin-codes01&show_icons=true&theme=tokyonight&count_private=true" alt="Sachin's GitHub Stats" height="195px"/>
+  <img src="https://img.shields.io/github/followers/sachin-codes01?style=for-the-badge&logo=github&color=0f172a&labelColor=1e293b" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/sachin-codes01?affiliations=OWNER&style=for-the-badge&logo=github&color=f7df1e&labelColor=1e293b" alt="Total stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsachin-codes01&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=38bdf8&labelColor=1e293b" alt="Public repositories" />
 </p>
 
-### 💻 Language Breakdown
+### 💻 Languages I Work In
 
 <p align="center">
-  <a href="https://github.com/sachin-codes01">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-codes01&hide_progress=false&theme=tokyonight&layout=compact&langs_count=6" alt="Language Skill Bars" height="195px" />
-  </a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
-
-<br clear="right"/>
 
 ---
 
